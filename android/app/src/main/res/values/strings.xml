@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spice Market Match</string>
+
+    <string name="splash_title">SPICE MARKET MATCH</string>
+    <string name="splash_subtitle">FILL THE ORDERS OF THE BAZAAR</string>
+    <string name="splash_loading">LOADING</string>
+
+    <string name="cd_logo">Spice Market Match emblem</string>
+    <string name="cd_stall">Stall %1$d, %2$s</string>
+    <string name="cd_home">Back to bazaar street</string>
+    <string name="cd_pause">Pause the round</string>
+    <string name="cd_board">Spice board, %1$d by %2$d</string>
+    <string name="cd_jar">%1$s jar</string>
+    <string name="cd_preview">Stall preview</string>
+
+    <string name="menu_word_mark">SPICE MARKET</string>
+    <string name="menu_title">BAZAAR STREET</string>
+    <string name="menu_tagline">Stall %1$d · fill the written order before the moves run out</string>
+
+    <string name="stat_orders">ORDERS</string>
+    <string name="stat_coins">COINS</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_points">POINTS</string>
+    <string name="stat_score">SCORE</string>
+    <string name="orders_progress">%1$d/%2$d</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="decor">DECOR</string>
+    <string name="recipes">RECIPES</string>
+    <string name="settings">SETTINGS</string>
+    <string name="back_to_menu">BACK TO MENU</string>
+    <string name="shuffle">SHUFFLE</string>
+    <string name="hint_count">HINT %1$d</string>
+
+    <string name="state_completed">Completed</string>
+    <string name="state_unlocked">Unlocked, current stall</string>
+    <string name="state_locked">Locked</string>
+    <string name="state_selected">Selected</string>
+    <string name="state_special">Special jar, clears a row</string>
+    <string name="state_plain">On the shelf</string>
+    <string name="state_owned">Owned</string>
+    <string name="state_placed">Placed on the stall</string>
+    <string name="state_on">On</string>
+    <string name="state_off">Off</string>
+
+    <string name="spice_saffron">SAFFRON</string>
+    <string name="spice_paprika">PAPRIKA</string>
+    <string name="spice_cinnamon">CINNAMON</string>
+    <string name="spice_cumin">CUMIN</string>
+    <string name="spice_cardamom">CARDAMOM</string>
+
+    <string name="fact_saffron">The dried stigmas of a crocus flower, picked by hand at dawn. About 150 flowers are needed for a single gram.</string>
+    <string name="fact_paprika">Sweet peppers dried slowly over oak smoke, then stone ground. The deepest red grades are the mildest ones.</string>
+    <string name="fact_cinnamon">The inner bark of a laurel tree, rolled into quills while it is still damp so it curls as it dries.</string>
+    <string name="fact_cumin">Ridged seeds toasted in a dry pan until they crackle. One minute too long and the warmth turns bitter.</string>
+    <string name="fact_cardamom">Green pods holding black seeds, the third costliest spice after saffron and vanilla. Crush the pod, never the seed.</string>
+
+    <string name="game_stall_title">STALL %1$d</string>
+    <string name="order_progress">%1$d / %2$d</string>
+    <string name="moves_left">MOVES LEFT</string>
+
+    <string name="result_win">ORDER FILLED</string>
+    <string name="result_lose">OUT OF MOVES</string>
+    <string name="result_coins">COINS</string>
+    <string name="plus_value">+%1$s</string>
+
+    <string name="decor_title">STALL DECOR</string>
+    <string name="decor_subtitle">SPEND COINS ON AWNINGS AND LAMPS</string>
+    <string name="decor_striped_awning">Striped Awning</string>
+    <string name="decor_lace_awning">Lace Awning</string>
+    <string name="decor_brass_lamp">Brass Lamp</string>
+    <string name="decor_paper_lantern">Paper Lantern</string>
+    <string name="decor_rope_garland">Rope Garland</string>
+    <string name="decor_spice_sack">Spice Sack</string>
+    <string name="decor_buy">BUY %1$s</string>
+    <string name="decor_place">PLACE</string>
+    <string name="decor_placed">PLACED</string>
+
+    <string name="recipes_title">RECIPE BOOK</string>
+    <string name="recipes_subtitle">EVERY SPICE YOU HAVE MATCHED</string>
+    <string name="recipes_empty">Match spices on the board to fill the recipe book.</string>
+    <string name="recipes_locked">Still to discover.</string>
+    <string name="matched_count">MATCHED %1$s</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_subtitle">SOUND AND MOTION</string>
+    <string name="settings_sound">SOUND</string>
+    <string name="settings_music">MUSIC</string>
+    <string name="settings_motion">REDUCED MOTION</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_message">Reset every filled order, all coins and the stall decor?</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="orders_footer">ORDERS FILLED %1$d / %2$d</string>
+
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_message">The bazaar waits. Nothing is on a timer.</string>
+    <string name="resume">RESUME</string>
+    <string name="restart_stall">RESTART STALL</string>
+    <string name="quit_to_menu">QUIT TO MENU</string>
+</resources>
